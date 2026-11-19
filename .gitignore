@@ -2,3 +2,5 @@ out/
 transcripts.tar.gz
 prompt.txt
 TASK.md
+generated-images/
+.workbuddy/
